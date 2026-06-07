@@ -1,17 +1,21 @@
+# SR.Dev Fitness - Landing Page Responsiva
 
+Landing page moderna para apresentacão de um aplicativo fitness focado em acompanhamento de atividades, metas, exercicios e engajamento da comunidade.
 
-## 🚀 Sobre o Projeto
+---
 
-A **SR.Dev Fitness** é uma landing page desenvolvida com foco em conversão, experiência do usuário e responsividade.
+## 📖 Sobre o Projeto
 
-O projeto apresenta um aplicativo fitness capaz de auxiliar usuários no acompanhamento de hábitos saudáveis, controle de metas, exercícios personalizados e interação com amigos.
+A **SR.Dev Fitness** foi desenvolvida com foco em conversão, experiência do usuário e responsividade.
+
+O projeto apresenta um aplicativo fitness capaz de auxiliar usuarios no acompanhamento de hábitos saudaveis, controle de metas, exercicios personalizados e interacão com amigos.
 
 ### Objetivos
 
 - Apresentar o aplicativo de forma clara e atrativa
-- Destacar funcionalidades principais
+- Destacar as funcionalidades principais
 - Incentivar o download do app
-- Garantir excelente experiência em diferentes dispositivos
+- Garantir boa experiência em diferentes dispositivos
 
 ---
 
@@ -24,39 +28,26 @@ O projeto apresenta um aplicativo fitness capaz de auxiliar usuários no acompan
 
 ---
 
-## ✨ Funcionalidades
+## 📌 Funcionalidades
 
-✅ Hero Section moderna
-
-✅ Apresentação das funcionalidades do aplicativo
-
-✅ Seção de monitoramento de calorias
-
-✅ Exercícios personalizados
-
-✅ Compartilhamento com amigos
-
-✅ Call To Action (CTA)
-
-✅ Header e Footer personalizados
-
-✅ Responsividade para:
-
-- 📱 Smartphones
-- 📱 Smartphones médios
-- 📲 Tablets
-- 💻 Desktop
-- 🖥️ Telas widescreen
+- Hero section moderna
+- Apresentacao das funcionalidades do aplicativo
+- Monitoramento de calorias
+- Exercicios personalizados
+- Compartilhamento com amigos
+- Call to action (CTA)
+- Header e footer personalizados
+- Layout responsivo para smartphones, tablets, desktop e telas widescreen
 
 ---
 
 ## 🎨 Identidade Visual
 
-A identidade visual foi construída utilizando cores associadas à saúde, bem-estar e tecnologia:
+A identidade visual foi construida utilizando cores associadas a saude, bem-estar e tecnologia:
 
-- Verde Esmeralda
-- Azul Petróleo
-- Tons claros de verde para destaque de seções
+- Verde esmeralda
+- Azul petroleo
+- Tons claros de verde para destaque de secoes
 - Layout minimalista e moderno
 
 ---
@@ -64,25 +55,22 @@ A identidade visual foi construída utilizando cores associadas à saúde, bem-e
 ## 📂 Estrutura do Projeto
 
 ```bash
-📁 landing-page-fitness
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
-│
-└── README.md
+landing-page-fitness/
+|-- index.html
+|-- style.css
+|-- assets/
+|   `-- img/
+|       |-- landing-page-fitness.png
+|       |-- srdev-fitness-demo.gif
+|       `-- outros arquivos de imagem
+`-- README.md
 ```
 
 ---
 
 ## ▶️ Como Executar
 
-Clone o repositório:
+Clone o repositorio:
 
 ```bash
 git clone https://github.com/Silviareis1/-landing-page-fitness.git
@@ -94,111 +82,54 @@ Entre na pasta:
 cd -landing-page-fitness
 ```
 
-Abra o arquivo:
-
-```bash
-index.html
-```
-
-Ou utilize a extensão Live Server no VS Code.
+Abra o arquivo `index.html` no navegador ou utilize a extensao Live Server no VS Code.
 
 ---
 
 ## 📱 Responsividade
 
-O projeto foi ajustado especificamente para:
+O projeto foi ajustado para diferentes larguras de tela:
 
 | Dispositivo | Largura |
 |------------|----------|
-| Mobile Pequeno | até 425px |
-| Mobile Médio | até 768px |
+| Mobile pequeno | ate 425px |
+| Mobile medio | ate 768px |
 | Tablet | 768px - 1024px |
 | Desktop | acima de 1024px |
 
-Foram realizados ajustes específicos de:
-
-- Tipografia
-- Espaçamentos
-- Cards
-- Tamanho das imagens
-- Footer
-- CTA
-- Layout das seções
+Os principais ajustes envolvem tipografia, espacamentos, cards, imagens, footer, CTA e organizacao das secoes.
 
 ---
 
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="assets/img/srdev-fitness-demo.gif" alt="Demonstração da Landing Page Fitness" width="80%">
+  <img src="assets/img/srdev-fitness-demo.gif" alt="Demonstracao da Landing Page Fitness" width="80%">
 </p>
 
+---
 
 
+## 🌐Projeto Online
+
+Página: [Landing Page Fitness](https://silviareis1.github.io/-landing-page-fitness/)
 
 ---
 
-## 🌐 Projeto Online
+## 👩🏼‍💻 Autora
 
-🔗 https://silviareis1.github.io/-landing-page-fitness/
-
----
-
-## 👩‍💻 Autora
-
-### Silvia Reis
+#### 🎓 Silvia Reis
 
 Estudante de Desenvolvimento Front-End
 
-GitHub:
-https://github.com/Silviareis1
+GitHub: [Silvia Reis](https://github.com/Silviareis1)
 
 ---
 
-## 📄 Licença
+## 📄 Observação
 
-Projeto desenvolvido para fins educacionais e de prática em desenvolvimento Front-End.
-
----
-
-<p align="center">
-  Desenvolvido com 💚 por Silvia Reis
-</p>
-</p>
+Projeto desenvolvido para fins educacionais e prática em desenvolvimento Front-End.
 
 ---
 
-## 📸 Preview
 
-<p align="center">
-  <img src="assets/screenshots/preview-desktop.png" alt="Preview Desktop" width="80%">
-</p>
-
----
-
-## 🌐 Projeto Online
-
-🔗 https://silviareis1.github.io/-landing-page-fitness/
-
----
-
-## 👩‍💻 Autora
-
-### Silvia Reis
-
-Estudante de Desenvolvimento Front-End
-
-GitHub:
-https://github.com/Silviareis1
-
----
-
-## 📄 Licença
-
-Projeto desenvolvido para fins educacionais e de prática em desenvolvimento Front-End.
-
----
-
-<p align="center">
-  Desenvolvido com 💚 por Silvia Reis
-</p>
