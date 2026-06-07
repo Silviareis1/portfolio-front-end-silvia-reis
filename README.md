@@ -1,126 +1,353 @@
-# ✨ TrendsIT 2026 — Portfólio Silvia Reis
+# 🏃‍♀️ SR.Dev Fitness — Landing Page Responsiva
 
 <p align="center">
-  Um portfólio front-end moderno, responsivo e focado em identidade visual profissional, acessibilidade e experiência do usuário.
+  Landing page moderna para apresentação de um aplicativo fitness focado em acompanhamento de atividades, metas, exercícios e engajamento da comunidade.
 </p>
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O **Portfólio do projeto TrendsIT 2026** representa minha identidade digital como desenvolvedora front-end, reunindo design moderno, organização visual e boas práticas de desenvolvimento web.
+A **SR.Dev Fitness** é uma landing page desenvolvida com foco em conversão, experiência do usuário e responsividade.
 
-O projeto foi construído com foco em:
+O projeto apresenta um aplicativo fitness capaz de auxiliar usuários no acompanhamento de hábitos saudáveis, controle de metas, exercícios personalizados e interação com amigos.
 
-- 🎨 Interface moderna e profissional
-- 📱 Layout responsivo para diferentes dispositivos
-- ♿ Acessibilidade e usabilidade
-- ⚡ Navegação simples e intuitiva
-- 🧩 Estrutura limpa e escalável
-- 🎯 Posicionamento técnico e visual consistente
+### Objetivos
 
----
-
-# 🛠️ Tecnologias Utilizadas
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design"><img src="https://img.shields.io/badge/Design%20Tokens-6C63FF?style=for-the-badge&logo=figma&logoColor=white" alt="Design Tokens"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts"><img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX">
-
+- Apresentar o aplicativo de forma clara e atrativa
+- Destacar funcionalidades principais
+- Incentivar o download do app
+- Garantir excelente experiência em diferentes dispositivos
 
 ---
 
-# 📌 Funcionalidades
+## 🛠️ Tecnologias Utilizadas
 
-✅ Navegação clara entre seções  
-✅ Hero section com posicionamento técnico  
-✅ Cards modernos de projetos  
-✅ Botões para GitHub e Demo  
-✅ Layout totalmente responsivo  
-✅ Formulário de contato acessível  
-✅ Sistema visual baseado em Design System  
-✅ Estrutura organizada e de fácil manutenção  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ---
 
-# 📂 Estrutura do Projeto
+## ✨ Funcionalidades
+
+✅ Hero Section moderna
+
+✅ Apresentação das funcionalidades do aplicativo
+
+✅ Seção de monitoramento de calorias
+
+✅ Exercícios personalizados
+
+✅ Compartilhamento com amigos
+
+✅ Call To Action (CTA)
+
+✅ Header e Footer personalizados
+
+✅ Responsividade para:
+
+- 📱 Smartphones
+- 📱 Smartphones médios
+- 📲 Tablets
+- 💻 Desktop
+- 🖥️ Telas widescreen
+
+---
+
+## 🎨 Identidade Visual
+
+A identidade visual foi construída utilizando cores associadas à saúde, bem-estar e tecnologia:
+
+- Verde Esmeralda
+- Azul Petróleo
+- Tons claros de verde para destaque de seções
+- Layout minimalista e moderno
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```bash
-📁 trendsit-2026
+📁 landing-page-fitness
 │
 ├── index.html
-├── style.css
+├── css/
+│   └── style.css
 │
-├── assets
-│   ├── img
-│   │   └── screencapture.png
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── screenshots/
+│
 └── README.md
 ```
 
 ---
 
-# ▶️ Como Executar Localmente
+## ▶️ Como Executar
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Silviareis1/portfolio-front-end-silvia-reis.git
+git clone https://github.com/Silviareis1/-landing-page-fitness.git
 ```
 
-Acesse a pasta do projeto:
+Entre na pasta:
 
 ```bash
-cd portfolio-front-end-silvia-reis
+cd -landing-page-fitness
 ```
 
-Abra o arquivo `index.html` diretamente no navegador  
-ou utilize uma extensão como **Live Server** no VS Code.
+Abra o arquivo:
+
+```bash
+index.html
+```
+
+Ou utilize a extensão Live Server no VS Code.
 
 ---
 
-# 📱 Responsividade
+## 📱 Responsividade
 
-O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporcionando uma experiência consistente em:
+O projeto foi ajustado especificamente para:
 
-- Smartphones
-- Tablets
-- Notebooks
-- Monitores widescreen
+| Dispositivo | Largura |
+|------------|----------|
+| Mobile Pequeno | até 425px |
+| Mobile Médio | até 768px |
+| Tablet | 768px - 1024px |
+| Desktop | acima de 1024px |
+
+Foram realizados ajustes específicos de:
+
+- Tipografia
+- Espaçamentos
+- Cards
+- Tamanho das imagens
+- Footer
+- CTA
+- Layout das seções
 
 ---
 
-# 🌟 Objetivos do Projeto
-
-Este portfólio foi criado para:
-
-- Fortalecer presença digital
-- Demonstrar habilidades front-end
-- Aplicar conceitos modernos de UI/UX
-- Consolidar práticas de HTML e CSS
-- Criar uma base profissional para futuros projetos
-
----
-
-# 📸 Preview
+## 🎥 Demonstração
 
 <p align="center">
-  <img src="assets/img/screencapture.png" alt="Preview do Portfólio TrendsIT 2026" width="45%">
+  <img src=" # 🏃‍♀️ SR.Dev Fitness — Landing Page Responsiva
+
+<p align="center">
+  Landing page moderna para apresentação de um aplicativo fitness focado em acompanhamento de atividades, metas, exercícios e engajamento da comunidade.
 </p>
 
 ---
 
-# 👩‍💻 Autora
+## 🚀 Sobre o Projeto
 
-## Silvia Reis
+A **SR.Dev Fitness** é uma landing page desenvolvida com foco em conversão, experiência do usuário e responsividade.
 
-Desenvolvedora Front-End em formação, focada em interfaces modernas, acessibilidade e experiências digitais intuitivas.
+O projeto apresenta um aplicativo fitness capaz de auxiliar usuários no acompanhamento de hábitos saudáveis, controle de metas, exercícios personalizados e interação com amigos.
+
+### Objetivos
+
+- Apresentar o aplicativo de forma clara e atrativa
+- Destacar funcionalidades principais
+- Incentivar o download do app
+- Garantir excelente experiência em diferentes dispositivos
 
 ---
 
-# 📄 Licença
+## 🛠️ Tecnologias Utilizadas
 
-Este projeto está sob a licença MIT.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+---
+
+## ✨ Funcionalidades
+
+✅ Hero Section moderna
+
+✅ Apresentação das funcionalidades do aplicativo
+
+✅ Seção de monitoramento de calorias
+
+✅ Exercícios personalizados
+
+✅ Compartilhamento com amigos
+
+✅ Call To Action (CTA)
+
+✅ Header e Footer personalizados
+
+✅ Responsividade para:
+
+- 📱 Smartphones
+- 📱 Smartphones médios
+- 📲 Tablets
+- 💻 Desktop
+- 🖥️ Telas widescreen
+
+---
+
+## 🎨 Identidade Visual
+
+A identidade visual foi construída utilizando cores associadas à saúde, bem-estar e tecnologia:
+
+- Verde Esmeralda
+- Azul Petróleo
+- Tons claros de verde para destaque de seções
+- Layout minimalista e moderno
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+📁 landing-page-fitness
+│
+├── index.html
+├── css/
+│   └── style.css
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── screenshots/
+│
+└── README.md
+```
+
+---
+
+## ▶️ Como Executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/Silviareis1/-landing-page-fitness.git
+```
+
+Entre na pasta:
+
+```bash
+cd -landing-page-fitness
+```
+
+Abra o arquivo:
+
+```bash
+index.html
+```
+
+Ou utilize a extensão Live Server no VS Code.
+
+---
+
+## 📱 Responsividade
+
+O projeto foi ajustado especificamente para:
+
+| Dispositivo | Largura |
+|------------|----------|
+| Mobile Pequeno | até 425px |
+| Mobile Médio | até 768px |
+| Tablet | 768px - 1024px |
+| Desktop | acima de 1024px |
+
+Foram realizados ajustes específicos de:
+
+- Tipografia
+- Espaçamentos
+- Cards
+- Tamanho das imagens
+- Footer
+- CTA
+- Layout das seções
+
+---
+
+## 🎥 Demonstração
+
+<p align="center">
+  <img src="assets/img/srdev-fitness-demo.gif" alt="Demonstração da Landing Page Fitness" width="80%">
+</p>
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/screenshots/preview-desktop.png" alt="Preview Desktop" width="80%">
+</p>
+
+---
+
+## 🌐 Projeto Online
+
+🔗 https://silviareis1.github.io/-landing-page-fitness/
+
+---
+
+## 👩‍💻 Autora
+
+### Silvia Reis
+
+Estudante de Desenvolvimento Front-End
+
+GitHub:
+https://github.com/Silviareis1
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins educacionais e de prática em desenvolvimento Front-End.
 
 ---
 
 <p align="center">
-  Desenvolvido com 💙 por Silvia Reis
+  Desenvolvido com 💚 por Silvia Reis
+</p>
 </p>
 
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/screenshots/preview-desktop.png" alt="Preview Desktop" width="80%">
+</p>
+
+---
+
+## 🌐 Projeto Online
+
+🔗 https://silviareis1.github.io/-landing-page-fitness/
+
+---
+
+## 👩‍💻 Autora
+
+### Silvia Reis
+
+Estudante de Desenvolvimento Front-End
+
+GitHub:
+https://github.com/Silviareis1
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins educacionais e de prática em desenvolvimento Front-End.
+
+---
+
+<p align="center">
+  Desenvolvido com 💚 por Silvia Reis
+</p>
