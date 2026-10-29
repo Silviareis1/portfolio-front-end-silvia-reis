@@ -1,83 +1,127 @@
-'# ✨ TrendsIT 2026 — Portfólio Silvia Reis
+# ✨ TrendsIT 2026 — Portfólio Silvia Reis
 
 <p align="center">
-  Um portfólio front-end moderno, responsivo e focado em identidade visual profissional, acessibilidade e experiência do usuário.
+  Portfólio acadêmico em evolução, desenvolvido para apresentar meus estudos,
+  projetos e experiências colaborativas em desenvolvimento front-end.
 </p>
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O **Portfolio do projeto TrendsIT 2026** representa minha identidade digital como desenvolvedora front-end, reunindo design moderno, organização visual e boas práticas de desenvolvimento web.
+O **Portfólio TrendsIT 2026** surgiu como um projeto acadêmico e continua sendo
+aprimorado conforme avanço nos meus estudos em desenvolvimento de sistemas.
 
-O projeto foi construído com foco em:
+Atualmente, ele reúne projetos de estudo e experiências colaborativas,
+permitindo acompanhar minha evolução no desenvolvimento web e na criação de
+interfaces modernas, responsivas e acessíveis.
 
-- 🎨 Interface moderna e profissional
+O projeto foi desenvolvido com foco em:
+
+- 🎨 Interface moderna e organizada
 - 📱 Layout responsivo para diferentes dispositivos
 - ♿ Acessibilidade e usabilidade
 - ⚡ Navegação simples e intuitiva
-- 🧩 Estrutura limpa e escalável
-- 🎯 Posicionamento técnico e visual consistente
+- 🧩 Estrutura organizada e de fácil manutenção
+- 🎯 Apresentação da minha evolução profissional
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design"><img src="https://img.shields.io/badge/Design%20Tokens-6C63FF?style=for-the-badge&logo=figma&logoColor=white" alt="Design Tokens"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts"><img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX">
+## 🛠️ Tecnologias e Ferramentas
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 ---
 
-# 🛠️ Funcionalidades
+## 🛠️ Funcionalidades
 
-✅ Navegação clara entre seções  
-✅ Hero section com posicionamento técnico  
-✅ Cards modernos de projetos  
-✅ Botões para GitHub e Demo  
-✅ Layout totalmente responsivo  
-✅ Formulário de contato acessível  
-✅ Sistema visual baseado em Design System  
+✅ Navegação entre seções  
+✅ Área de apresentação profissional  
+✅ Cards para projetos de estudo e colaborativos  
+✅ Links para repositórios no GitHub e demonstrações online  
+✅ Layout responsivo  
+✅ Links diretos para redes e canais profissionais  
+✅ Formulário acadêmico demonstrativo  
+✅ Aviso informando que o formulário ainda não realiza envio de mensagens  
 ✅ Estrutura organizada e de fácil manutenção  
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📚 Projetos apresentados
+
+O portfólio reúne atualmente projetos de estudo e projetos desenvolvidos
+em colaboração com outras equipes.
+
+Entre eles:
+
+- Landing Page Fitness — projeto de estudo
+- Landing Page IA Programação — projeto de estudo
+- BioLink Pro — projeto de estudo
+- Turismo.com — projeto colaborativo
+- ADS Solutions — projeto colaborativo
+
+Nos projetos colaborativos, participei de atividades como desenvolvimento
+front-end, criação e implementação de interfaces, responsividade,
+versionamento com Git/GitHub e trabalho em equipe.
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```bash
-📁 trendsit-2026
+portfolio-front-end-silvia-reis
 │
 ├── index.html
 ├── style.css
-│
 ├── assets
-│   ├── img
-│   │   └── screencapture.png
+│   └── img
+│       ├── silvia-reis.jpeg
+│       ├── landing-page-fitness.png
+│       ├── IA-programacao.png
+│       ├── biolink-pro-preview.png
+│       ├── turismo-com-portugual.png
+│       └── adi-solutions.png
 └── README.md
 ```
 
 ---
 
-# ▶️ Como Executar Localmente
+## ▶️ Como Executar Localmente
 
 Clone o repositório:
 
 ```bash
-git clone git@github.com:Silviareis1/portfolio-front-end-silvia-reis.git
+git clone https://github.com/Silviareis1/portfolio-front-end-silvia-reis.git
 ```
 
-Acesse a pasta do projeto:
+Acesse a pasta:
 
 ```bash
 cd portfolio-front-end-silvia-reis
 ```
 
-Abra o arquivo `index.html` diretamente no navegador  
-ou utilize uma extensão como **Live Server** no VS Code.
+Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão
+como **Live Server** no VS Code.
 
 ---
 
-# 📱 Responsividade
+## 🌐 Demonstração
 
-O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporcionando uma experiência consistente em:
+O projeto está publicado no GitHub Pages:
+
+**https://silviareis1.github.io/portfolio-front-end-silvia-reis/**
+
+---
+
+## 📱 Responsividade
+
+O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela,
+proporcionando uma experiência consistente em:
 
 - Smartphones
 - Tablets
@@ -86,43 +130,39 @@ O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, proporc
 
 ---
 
-# 🌟 Objetivos do Projeto
+## 🌟 Objetivos do Projeto
 
-Este portfólio foi criado para:
+Este portfólio tem como objetivos:
 
-- Fortalecer presença digital
-- Demonstrar habilidades front-end
-- Aplicar conceitos modernos de UI/UX
-- Consolidar práticas de HTML e CSS
-- Criar uma base profissional para futuros projetos
+- Registrar minha evolução no desenvolvimento web
+- Apresentar projetos acadêmicos e colaborativos
+- Demonstrar conhecimentos em desenvolvimento front-end
+- Aplicar conceitos de responsividade, acessibilidade e UI/UX
+- Consolidar práticas de HTML, CSS, Git e GitHub
+- Construir gradualmente minha presença profissional na área de tecnologia
 
 ---
 
-# 📸 Preview
+## 📸 Preview
 
 <p align="center">
-  <img src="assets/img/screencapture.png" alt="Preview do Portfólio TrendsIT 2026" width="45%">
+  <img src="assets/img/screencapture.png"
+       alt="Preview do portfólio de Silvia Reis"
+       width="70%">
 </p>
 
 ---
 
-# 👩‍💻 Autora
+## 👩‍💻 Autora
 
-## Silvia Reis
+### Silvia Reis
 
-Desenvolvedora Front-End em formação, focada em interfaces modernas, acessibilidade e experiências digitais intuitivas.
-
----
-
-# 📄 Licença
-
-Este projeto está sob a licença MIT.
+Desenvolvedora Front-end em formação e estudante de Desenvolvimento de Sistemas,
+com interesse em interfaces responsivas, acessibilidade, experiência do usuário
+e desenvolvimento web.
 
 ---
 
 <p align="center">
   Desenvolvido com 💙 por Silvia Reis
-</p>'
-tá certo os ajuste 
-
-
+</p>
